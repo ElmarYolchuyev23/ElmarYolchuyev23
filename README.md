@@ -12,6 +12,15 @@
 <samp>「 I am a front-end developer from <b>Baku</b> 」</samp>
 </p>
 
+<p align="center">
+  <a href="https://www.instagram.com/elmar_yolchuyev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="I'm on Instagram"
+  </a>
+    <a href="mailto: elmar.yolchuyev23@gmail.com">
+      <img src="https://img.shields.io/badge/-EMAIL-white?style=for-the-badge&logo=gmail" alt="My Email"
+      </A>
+</p>
+
 # About Me
 <p>
 👦 &emsp; I'm 23 years old;<br/>
