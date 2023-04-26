@@ -29,7 +29,7 @@
 👦 &emsp; I'm 23 years old;<br/>
 🎓 &emsp; Graduated from Azerbaijan State University of Economics;<br/>
 🗺️ &emsp; Travel make me free;<br/>
-🧑‍💻 &emsp; Interested to Front-End, GameDev, Mobile App Development and etc!<br/>
+🧑‍💻 &emsp; Interested to Front-End, GameDev, Mobile App Development and etc!
 </p>
 
 # What I Use In Code? Look ⤵️
@@ -43,6 +43,17 @@
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=androidstudio)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)
 ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-black?style=for-the-badge&logo=unrealengine)
-
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarYolchuyev23&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/ElmarYolchuyev23/github-readme-stats)
+ 
+<p align="center">
+  <a href="https://github.com/ElmarYolchuyev23">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmarYolchuyev23&theme=tokyonight&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ElmarYolchuyev23"><img alt="Elmar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ElmarYolchuyev23&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+</p>
+   
