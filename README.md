@@ -16,6 +16,9 @@
   <a target="_blank" href="https://www.instagram.com/elmar_yolchuyev/">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="I'm on Instagram"
   </a>
+    <a target="_blank" href="https://t.me/elmaryolchuyev">
+      <img src="https://img.shields.io/badge/-TELEGRAM-%2335A8DE?style=for-the-badge&logo=telegram" alt="I'm on Telegram"/>
+    </a>
     <a href="mailto: elmar.yolchuyev23@gmail.com">
       <img src="https://img.shields.io/badge/-EMAIL-white?style=for-the-badge&logo=gmail" alt="My Email"
       </A>
