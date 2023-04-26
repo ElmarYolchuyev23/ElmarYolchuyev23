@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/elmar_yolchuyev/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/elmar_yolchuyev/">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="I'm on Instagram"
   </a>
     <a href="mailto: elmar.yolchuyev23@gmail.com">
@@ -34,6 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CSharp](https://img.shields.io/badge/-Csharp-%23792E82?style=for-the-badge&logo=csharp)
 
 # Technology I Interested
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=androidstudio)
