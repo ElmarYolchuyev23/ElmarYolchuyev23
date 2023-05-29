@@ -42,6 +42,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-B40001?style=for-the-badge&logo=filezilla&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-313C3E?style=for-the-badge&logo=netlify&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8811F2?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 # Technology I Interested
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=androidstudio)
