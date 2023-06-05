@@ -43,6 +43,8 @@
 ![FileZilla](https://img.shields.io/badge/FileZilla-B40001?style=for-the-badge&logo=filezilla&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-313C3E?style=for-the-badge&logo=netlify&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8811F2?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-C36291?style=for-the-badge&logo=sass&logoColor=white)
+![Electron.JS](https://img.shields.io/badge/Electron.js-2A2C37?style=for-the-badge&logo=electron&logoColor=white)
 
 
 # Technology I Interested
