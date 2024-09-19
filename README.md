@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/-TELEGRAM-%2335A8DE?style=for-the-badge&logo=telegram&logoColor=white" alt="I'm on Telegram"/>
     </a>
     <a href="mailto: elmar.yolchuyev23@gmail.com">
-      <img src="https://img.shields.io/badge/-EMAIL-white?style=for-the-badge&logo=gmail" alt="My Email"
+      <img src="https://img.shields.io/badge/-GMAIL-white?style=for-the-badge&logo=gmail" alt="My Gmail"
       </A>
 </p>
 
