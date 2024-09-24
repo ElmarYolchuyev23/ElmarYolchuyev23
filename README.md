@@ -38,7 +38,7 @@
 👦 &emsp; I'm 24 years old;<br/>
 🎓 &emsp; Graduated from Azerbaijan State University of Economics;<br/>
 🗺️ &emsp; Travel make me free;<br/>
-🧑‍💻 &emsp; Interested to Front-End, GameDev, Mobile App Development and etc;<br/>
+🧑‍💻 &emsp; Interested in Front-End, GameDev, Mobile App Development and etc;<br/>
 💡 &emsp; Creativity in high level!
 </p>
 
